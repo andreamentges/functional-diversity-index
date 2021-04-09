@@ -1,6 +1,6 @@
 # Code for functional diversity index
 
-The repository contains both a MATLAB and an R script to calculate functional diversity from a list of signal intensities and associated molecular traits.
+The repository contains both a MATLAB and an R script to calculate functional diversity from a list of signal intensities and associated molecular traits.  
 Authors: Andrea Mentges, Helena Osterholz
 
 The computer code developed for the following publication:
