@@ -1,9 +1,8 @@
 # Code for functional diversity index
 
-The repository contains both a MATLAB and an R script to calculate functional diversity `D_F` from a list of signal intensities and associated molecular traits.  
-Authors: Andrea Mentges, Helena Osterholz
+The repository contains a MATLAB script to calculate functional diversity `D_F` from a list of signal intensities and associated molecular traits.  
 
-The computer code developed for the following publication:
+The computer code was developed for the following publication:
 "Functional Molecular Diversity of Marine Dissolved Organic Matter Is Reduced during Degradation"   
 Andrea Mentges, Christoph Feenders, Maren Seibt, Bernd Blasius, and Thorsten Dittmar  
 Frontiers in Marine Science, 2017   
